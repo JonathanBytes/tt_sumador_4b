@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+A simple 4 bit adder implemented in Verilog. The adder takes two 4-bit inputs and produces a 4-bit sum and a carry-out bit.
 
 ## How to test
 
-Explain how to use your project
+the test files are in ./dv/.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+This design does not require any external hardware to function. It can be simulated using a Verilog simulator such as ModelSim or Vivado.
